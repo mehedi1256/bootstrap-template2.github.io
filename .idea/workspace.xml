@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acbdee2c-d9b6-4762-ad48-237cf04905fa" name="Default" comment="" />
-    <ignored path="Electrify-Template.iws" />
+    <ignored path="-Template.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/*.regexp" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447791009373" ignored="false" />
     <file path="/index.html" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447790885032" ignored="false" />
     <file path="/style.css" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447791216985" ignored="false" />
     <file path="/Dummy.txt" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447827773445" ignored="false" />
-    <file path="C:/wamp/www/Templates/Electrify-Template/sidebar-right.html" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447827128261" ignored="false" />
-    <file path="C:/wamp/www/Templates/Electrify-Template/css/style.css" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447826741628" ignored="false" />
-    <file path="C:/wamp/www/Templates/Electrify-Template/js/styleswitch.js" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447827577260" ignored="false" />
-    <file path="C:/wamp/www/Templates/Electrify-Template/css/layout/boxed.css" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447827717678" ignored="false" />
+    <file path="C:/wamp/www/Templates/-Template/sidebar-right.html" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447827128261" ignored="false" />
+    <file path="C:/wamp/www/Templates/-Template/css/style.css" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447826741628" ignored="false" />
+    <file path="C:/wamp/www/Templates/-Template/js/styleswitch.js" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447827577260" ignored="false" />
+    <file path="C:/wamp/www/Templates/-Template/css/layout/boxed.css" changelist="acbdee2c-d9b6-4762-ad48-237cf04905fa" time="1447827717678" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +27,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Electrify-Template" />
+    <favorites_list name="-Template" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -112,27 +112,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Electrify-Template" />
+              <option name="myItemId" value="-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Electrify-Template" />
+              <option name="myItemId" value="-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Electrify-Template" />
+              <option name="myItemId" value="-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Electrify-Template" />
+              <option name="myItemId" value="-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Electrify-Template" />
+              <option name="myItemId" value="-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -142,11 +142,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Electrify-Template" />
+              <option name="myItemId" value="-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Electrify-Template" />
+              <option name="myItemId" value="-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -156,11 +156,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Electrify-Template" />
+              <option name="myItemId" value="-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Electrify-Template" />
+              <option name="myItemId" value="-Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -179,7 +179,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/wamp/www/Templates/Electrify-Template" />
+    <property name="last_opened_file_path" value="C:/wamp/www/Templates/-Template" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
